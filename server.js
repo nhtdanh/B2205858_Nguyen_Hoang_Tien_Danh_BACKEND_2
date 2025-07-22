@@ -1,4 +1,4 @@
-const app = require("./app.js");
+const app = require("./app");
 const config = require("./app/config");
 const MongoDB = require("./app/utils/mongodb.util.js");
 
